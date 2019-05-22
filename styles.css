@@ -1,0 +1,12 @@
+p {
+    color: yellowgreen; 
+}
+a:hover {
+    color: yellowgreen;
+}
+h1 {
+    font-size: 50px;
+}
+.images {
+    display: inline-block;
+}
